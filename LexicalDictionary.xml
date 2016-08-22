@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LexicalDictionary>
+
+<PCL id="1" lib="بش" pos_eng="VERB" pos_arb="فعل"></PCL>
+<PCL id="2" lib="و" pos_eng="" pos_arb=""></PCL>
+<PCL id="3" lib="ل" pos_eng="NOUN" pos_arb="إسم"></PCL>
+<PCL id="4" lib="ب" pos_eng="NOUN" pos_arb="إسم"></PCL>
+<PCL id="5" lib="ال" pos_eng="NOUN" pos_arb="إسم"></PCL>
+<PCL id="6" lib="م" pos_eng="VERB" pos_arb="فعل"></PCL>
+<PCL id="7" lib="ما" pos_eng="VERB" pos_arb="فعل"></PCL>
+
+<PRF id="1" lib="ن" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="1" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></PRF>
+<PRF id="2" lib="ن" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="1" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></PRF>
+<PRF id="3" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="2" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></PRF>
+<PRF id="4" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="2" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></PRF>
+<PRF id="5" lib="ي" pos_eng="VERB" pos_arb="فعل" genre_eng="MALE" genre_arb="مذكّر" number_eng="SINGULAR" number_arb="مفرد" person="3" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></PRF>
+<PRF id="6" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="FEMININE" genre_arb="مؤنّث" number_eng="SINGULAR" number_arb="مفرد" person="3" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></PRF>
+<PRF id="7" lib="ي" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="3" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></PRF>
+<PRF id="8" lib="نتت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="1" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="9" lib="نتت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="1" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="10" lib="تت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="2" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="11" lib="تت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="2" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="12" lib="يت" pos_eng="VERB" pos_arb="فعل" genre_eng="MALE" genre_arb="مذكّر" number_eng="SINGULAR" number_arb="مفرد" person="3" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="13" lib="تت" pos_eng="VERB" pos_arb="فعل" genre_eng="FEMININE" genre_arb="مؤنّث" number_eng="SINGULAR" number_arb="مفرد" person="3" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="14" lib="يت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="3" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="15" lib="إ" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="1" time_eng="" time_arb="" mode_eng="IMPERATIVE" mode_arb="أمر"  voice_eng="" voice_arb=""></PRF>
+<PRF id="16" lib="إ" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="1" time_eng="" time_arb=""  mode_eng="IMPERATIVE" mode_arb="أمر"  voice_eng="" voice_arb=""></PRF>
+<PRF id="17" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="1" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="18" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="1" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="19" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="2" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="20" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="2" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="21" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="MALE" genre_arb="مذكّر" number_eng="SINGULAR" number_arb="مفرد" person="3" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="22" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="FEMININE" genre_arb="مؤنّث" number_eng="SINGULAR" number_arb="مفرد" person="3" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+<PRF id="23" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="3" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></PRF>
+
+
+<SUF id="1" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="1" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></SUF>
+<SUF id="2" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="2" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></SUF>
+<SUF id="3" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="3" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></SUF>
+<SUF id="4" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="1" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></SUF>
+<SUF id="5" lib="نا" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="1" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></SUF>
+<SUF id="6" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="2" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></SUF>
+<SUF id="7" lib="تو" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="2" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></SUF>
+<SUF id="8" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="FEMININE" genre_arb="مؤنّث" number_eng="SINGULAR" number_arb="مفرد" person="3" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></SUF>
+<SUF id="9" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="3" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="ACTIVE" voice_arb="معلوم"></SUF>
+<SUF id="10" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="1" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></SUF>
+<SUF id="11" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="2" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></SUF>
+<SUF id="12" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="3" time_eng="PRESENT" time_arb="مضارع" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></SUF>
+<SUF id="13" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="1" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></SUF>
+<SUF id="14" lib="نا" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="1" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي" voice_eng="PASSIVE" voice_arb="مجهول"></SUF>
+<SUF id="15" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="SINGULAR" number_arb="مفرد" person="2" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></SUF>
+<SUF id="16" lib="تو" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="2" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></SUF>
+<SUF id="17" lib="ت" pos_eng="VERB" pos_arb="فعل" genre_eng="FEMININE" genre_arb="مؤنّث" number_eng="SINGULAR" number_arb="مفرد" person="3" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></SUF>
+<SUF id="18" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="3" time_eng="PAST" time_arb="ماضي" mode_eng="NORMAL" mode_arb="عادي"  voice_eng="PASSIVE" voice_arb="مجهول"></SUF>
+<SUF id="19" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="PLURAL" number_arb="جمع" person="2" time_eng="" time_arb=""  mode_eng="IMPERATIVE" mode_arb="أمر" voice_eng="" voice_arb=""></SUF>
+<SUF id="20" lib="ه" pos_eng="NOUN" pos_arb="إسم" genre_eng="FEMININE" genre_arb="مؤنّث" number_eng="SINGULAR" number_arb="مفرد" person="" time_eng="" time_arb="" mode_eng="" mode_arb="" voice_eng="" voice_arb=""></SUF>
+<SUF id="21" lib="ات" pos_eng="NOUN" pos_arb="إسم" genre_eng="FEMININE" genre_arb="مؤنّث" number_eng="PLURAL" number_arb="جمع" person="" time_eng="" time_arb="" mode_eng="" mode_arb="" voice_eng="" voice_arb=""></SUF>
+<SUF id="22" lib="ه" pos_eng="ADJECTIVE" pos_arb="صفة" genre_eng="FEMININE" genre_arb="مؤنّث" number_eng="SINGULAR" number_arb="مفرد" person="" time_eng="" time_arb="" mode_eng="" mode_arb="" voice_eng="" voice_arb=""></SUF>
+<SUF id="23" lib="ات" pos_eng="ADJECTIVE" pos_arb="صفة" genre_eng="FEMININE" genre_arb="مؤنّث" number_eng="PLURAL" number_arb="جمع" person="" time_eng="" time_arb="" mode_eng="" mode_arb="" voice_eng="" voice_arb=""></SUF>
+<SUF id="24" lib="ين" pos_eng="ADJECTIVE" pos_arb="صفة" genre_eng="MALE" genre_arb="مذكّر" number_eng="PLURAL" number_arb="جمع" person="" time_eng="" time_arb="" mode_eng="" mode_arb="" voice_eng="" voice_arb=""></SUF>
+
+<ECL id="1" lib="تي" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="2" lib="تك" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="3" lib="تو" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="4" lib="تها" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="5" lib="تنا" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="6" lib="تكم" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="7" lib="تهم" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="8" lib="لي" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="9" lib="لك" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="10" lib="لو" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="11" lib="لها" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="12" lib="لنا" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="13" lib="لكم" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="14" lib="لهم" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="15" lib="ني" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="16" lib="ك" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="17" lib="و" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="18" lib="ها" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="19" lib="نا" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="20" lib="كم" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="21" lib="هم" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="22" lib="ه" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="23" lib="ي" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="24" lib="ك" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="25" lib="و" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="26" lib="ها" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="27" lib="نا" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="28" lib="كم" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="29" lib="هم" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="30" lib="ه" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="31" lib="ين" pos_eng="NOUN" pos_arb="إسم" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+<ECL id="32" lib="ش" pos_eng="VERB" pos_arb="فعل" genre_eng="" genre_arb="" number_eng="" number_arb="" person="" time_eng="" time_arb=""></ECL>
+
+<ABS_BEFORE_STEM lib="ة"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ث"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ج"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ح"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="خ"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="د"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ذ"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ر"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ز"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="س"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ص"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ض"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ط"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ظ"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ع"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="غ"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ف"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ق"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ه"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ڤ"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ݒ"></ABS_BEFORE_STEM>
+<ABS_BEFORE_STEM lib="ڢ"></ABS_BEFORE_STEM>
+
+
+<ABS_AFTER_STEM lib="أ"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="إ"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ب"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ة"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ث"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ج"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ح"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="خ"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="د"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ذ"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ر"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ز"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="س"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ص"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ض"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ط"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ظ"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ع"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="غ"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ف"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ق"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ه"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ڤ"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ݒ"></ABS_AFTER_STEM>
+<ABS_AFTER_STEM lib="ڢ"></ABS_AFTER_STEM>
+
+</LexicalDictionary>
